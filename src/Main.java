@@ -1,4 +1,4 @@
-void main() {
+void main(String[] args) {
     // CALCULADORA EM JAVA (DEMAIS VIDEOS DA PLAYLIST NOS PACOTES)
 
     IO.println("Digite um número inteiro: ");
